@@ -1,0 +1,21 @@
+
+	******************** Bill Details *******************
+	BOOKING ID : CarSpa@0
+	NAME : shubham
+	ADDRESS : akab23
+	PHONE NO. : 88888888
+	CAR TYPE : Hatchback
+	CAR NO. :3854
+	SERVICE TYPE :Silver Wash
+	BILL PRICE : 1100
+	*******************************************************
+	******************** Bill Details *******************
+	BOOKING ID : CarSpa@0
+	NAME : shubhash
+	ADDRESS : a-block/23,rohini
+	PHONE NO. : 9987778777
+	CAR TYPE : sedan
+	CAR NO. :dl2AWO2222
+	SERVICE TYPE :Gold Wash
+	BILL PRICE : 1800
+	*******************************************************

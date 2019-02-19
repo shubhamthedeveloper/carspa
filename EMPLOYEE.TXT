@@ -1,0 +1,41 @@
+		**********************************************
+			  	EMPLOYEES RECORDS
+		**********************************************
+		1) SILVER WORKERS 
+		EMP_ID -> emp001 
+		NAME ->	Rohit Singh
+		ADDRESS -> B-11 Janakpuri
+		PHONE NO. -> 9888736554	
+		SALARY -> RS 10,000									
+
+		EMP_ID -> emp011
+		NAME -> Rakesh Jain
+		ADDRESS -> c-16 Paschim vihar
+		PHONE NO. -> 9888724434
+		SALARY -> RS 10,000 
+
+		2) GOLD WORKERS 
+		EMP_ID -> emp002
+		NAME ->	Mohan Kumar
+		ADDRESS -> A-90 Rohini
+		PHONE NO. -> 9888736550
+		SALARY -> RS 15,000 									
+
+		EMP_ID -> emp012
+		NAME ->	Ajay singh
+		ADDRESS -> D-111 Rohini
+		PHONE NO. -> 9888736551
+		SALARY -> RS 15,000
+		
+		3) PLATINUM WORKERS
+		EMP_ID ->  emp003
+		NAME ->	Rohan Sharma
+		ADDRESS -> A-009 Pitampura
+		PHONE NO. -> 9888736552
+		SALARY -> RS 20,000 									
+
+		EMP_ID ->  emp013
+		NAME ->	Karan Goel
+		ADDRESS -> Q-12 Dilshad Garden
+		PHONE NO. -> 9888736566
+		SALARY -> RS 20,000 

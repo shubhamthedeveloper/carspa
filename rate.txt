@@ -1,0 +1,23 @@
+			*************************************************								  
+					PRICES					  
+			************************************************* 
+
+
+			1) SILVER WASH 
+			* HATCHBACK - 1100
+			* SEDAN - 1300
+			* SUV - 1800
+			* LUXURY - 2000
+
+			2) GOLD WASH
+			* HATCHBACK -1500
+			* SEDAN - 1800
+			* SUV - 2200
+			* LUXURY - 3000
+
+			3) PLATINUM WASH
+			* HATCHBACK - 2000
+			* SEDAN - 2200
+			* SUV - 3000
+			* LUXURY - 4000
+
